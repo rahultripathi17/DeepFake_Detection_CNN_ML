@@ -9,7 +9,7 @@ In the era of rapidly advancing artificial intelligence, the proliferation of de
 For a deeper understanding of our project, please refer to our research paper.
 
 - [Deepfake Image Detection Using Convolutional Neural Network](https://drive.google.com/file/d/1_7JtpIeHrODFaw9CGO6z6p7W0VyWytNT/view?usp=sharing)
-
+- [DOI: 10.1007/978-981-96-1981-8_5](https://link.springer.com/chapter/10.1007/978-981-96-1981-8_5)
 ## Abstract
 Our research focuses on the detection of deepfake images, employing two distinct methodologies: CNN and CNN with Gabor filters. The CNN model excels in identifying manipulated images, while the CNN with Gabor filter approach adds a nuanced layer of analysis, capturing fine texture details and expanding the model's capabilities.
 
